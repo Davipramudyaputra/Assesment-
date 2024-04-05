@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laundry in</string>
+    <string name="laundryin_intro">" [NOTED Estimated!]\n fast: 12 hours - 1 day\n Standard: 1 day - 2 days"</string>
+    <string name="nama_pelangan">Customer Name</string>
+    <string name="kilo">Kilo</string>
+    <string name="standar">Standard</string>
+    <string name="cepat">Fast</string>
+    <string name="harga">Price</string>
+    <string name="total_x">Total: RP%1$s</string>
+    <string name="nama">Name: %1$s</string>
+    <string name="pilihan">Estimated: %1$s</string>
+    <string name="input_invalid">" Can not be empty"</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Total:%1$s \n  Nama:%2$s \n Estimasi: %3$s \n This is Total,Estimeted,and Customer Name</string>
+    <string name="tentang_aplikasi">" About application"</string>
+    <string name="copyright">"laundry cashier is a tool that calculates the number of orders from customers.\n\nThis application was created for assessment 1 Mobpro.\n\nCopyright © 2021 – 2024 Davi Pramudya Putra. "</string>
+    <string name="kembali">Back</string>
+</resources>

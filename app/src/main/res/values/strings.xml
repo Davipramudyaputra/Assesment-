@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Laundry in</string>
+    <string name="laundryin_intro" translatable="false">[NOTED Ekstimasi !]\n cepat : 12 jam - 1 hari \n Standar:1 hari - 2 hari </string>
+    <string name="nama_pelangan" translatable="false">Nama Pelangan</string>
+    <string name="kilo" translatable="false">Kilo</string>
+    <string name="standar" translatable="false">Standar</string>
+    <string name="cepat" translatable="false">Cepat</string>
+    <string name="harga" translatable="false">Harga</string>
+    <string name="total_x" translatable="false">Total: RP %1$s </string>
+    <string name="nama" translatable="false">Nama: %1$s</string>
+    <string name="pilihan" translatable="false">Estimasi: %1$s</string>
+    <string name="input_invalid" translatable="false">Tidak Boleh Kososng.</string>
+    <string name="bagikan" translatable="false">Bagikan</string>
+    <string name="bagikan_template" translatable="false">Total: %1$s \n Nama: %2$s \n Estimasi: %3$s \nBerikut adalah Total,Estimasi,Dan Nama customer.</string>
+    <string name="tentang_aplikasi" translatable="false">Tentang Aplikasi</string>
+    <string name="copyright" translatable="false">Laundryin cashier merupakan alat yang menghitung jumlah pesana dari para customer.\n\nAplikasi ini dibuat untuk assesment 1 Mobpro.\n\nCopyright © 2021 - 2024 Davi Pramudya Putra.\nAll rights
+    reserved.</string>
+    <string name="kembali" translatable="false">kembali</string>
+
+</resources>
